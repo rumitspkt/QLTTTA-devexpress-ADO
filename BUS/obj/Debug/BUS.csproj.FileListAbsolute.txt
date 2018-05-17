@@ -1,0 +1,3 @@
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache

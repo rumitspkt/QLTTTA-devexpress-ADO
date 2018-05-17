@@ -1,0 +1,425 @@
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\QLTTTA.exe
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\QLTTTA.pdb
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Data.v17.1.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Utils.v17.1.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Data.v17.1.xml
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Utils.v17.1.xml
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.csprojResolveAssemblyReference.cache
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.Properties.Resources.resources
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.csproj.GenerateResource.Cache
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.exe.licenses
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.exe
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.pdb
+c:\users\rumit\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDangKyMonHoc.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDoiMK.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSGiangVien.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSHocVienTungLop.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSKhoaHoc.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSLopHoc.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSHocVien.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSTaiKhoan.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmLogin.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmMain.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSMonhoc.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmSuaThongTinGV.resources
+C:\Users\RumIT\documents\visual studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmXemDiem.resources
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\Oracle.DataAccess.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\oci.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\oramts.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\oramts12.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\oramtsus.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\orannzsbb12.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\oraocci12.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\oraocci12d.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\oraociei12.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\oraons.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\bin\Debug\OraOps12.dll
+C:\Users\RumIT\Documents\Visual Studio 2017\Projects\QLTTTA\QLTTTA\obj\Debug\QLTTTA.GUI.frmOracleConfig.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\Oracle.DataAccess.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Data.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Images.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Data.v17.1.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.csprojResolveAssemblyReference.cache
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDangKyMonHoc.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDoiMK.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSGiangVien.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSHocVienTungLop.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSKhoaHoc.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSLopHoc.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSHocVien.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSTaiKhoan.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmLogin.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmMain.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSMonhoc.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmOracleConfig.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmSuaThongTinGV.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmXemDiem.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.Properties.Resources.resources
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.csproj.GenerateResource.cache
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.exe.licenses
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.csproj.CoreCompileInputs.cache
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.csproj.CopyComplete
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.exe
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.pdb
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\QLTTTA.exe
+D:\HocTap\Windows_programming\DoAnCuoiKy\QLTTTA-devexpress-master\QLTTTA\bin\Debug\QLTTTA.pdb
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\QLTTTA.exe
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\QLTTTA.pdb
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Data.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Images.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\Oracle.DataAccess.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Data.v17.1.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.csprojResolveAssemblyReference.cache
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDangKyMonHoc.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDoiMK.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSGiangVien.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSHocVienTungLop.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSKhoaHoc.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSLopHoc.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSHocVien.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSTaiKhoan.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmLogin.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmMain.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSMonhoc.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmOracleConfig.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmSuaThongTinGV.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.GUI.frmXemDiem.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.Properties.Resources.resources
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.csproj.GenerateResource.cache
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.exe.licenses
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.csproj.CoreCompileInputs.cache
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.csproj.CopyComplete
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.exe
+D:\HocTap\Windows_programming\Entity Framework\QLTTTA-devexpress-master\QLTTTA\obj\Debug\QLTTTA.pdb
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\QLTTTA.exe
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\QLTTTA.pdb
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Data.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Images.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\Oracle.DataAccess.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Data.v17.1.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.csprojResolveAssemblyReference.cache
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDangKyMonHoc.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDoiMK.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSGiangVien.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSHocVienTungLop.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSKhoaHoc.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSLopHoc.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSHocVien.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSTaiKhoan.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmLogin.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmMain.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmDSMonhoc.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmSuaThongTinGV.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.GUI.frmXemDiem.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.Properties.Resources.resources
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.csproj.GenerateResource.Cache
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.exe.licenses
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.exe
+E:\CNTT SPKT\Windows\ProjectVS\QLTTTA-devexpress-ADO\QLTTTA\obj\Debug\QLTTTA.pdb
